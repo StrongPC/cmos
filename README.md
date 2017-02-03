@@ -5,4 +5,5 @@ In this repository, we'll publish everything we've designed and implemented.
 
 ## Circuits
 1. NOT Gate :
+
 ![NOT gate](circuits/not.png)
