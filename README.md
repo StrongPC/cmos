@@ -7,3 +7,8 @@ In this repository, we'll publish everything we've designed and implemented.
 1. NOT Gate :
 
 ![NOT gate](circuits/not.png)
+
+## Waveform Analysis 
+1. NOT Gate:
+
+![NOT gate](waveforms/not.png)
