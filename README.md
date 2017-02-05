@@ -15,6 +15,10 @@ For **NMOS** we've used *Texas Instruments CSD17506Q5A* and for **PMOS** we've u
 
 ![AND gate](circuits/and.png)
 
+3) OR Gate :
+
+![OR Gate](circuits/or.png)
+
 ## Waveform Analysis 
 1) NOT Gate:
 
@@ -25,3 +29,10 @@ For **NMOS** we've used *Texas Instruments CSD17506Q5A* and for **PMOS** we've u
 Hint : Green and Dark Blue waves are inputs, red wave is output of CMOS NAND, and input of NOT gate, Light Blue wave is the output.
 
 ![AND Gate](waveforms/and.png)
+
+3) OR Gate :
+
+Hint : Green and Dark Blue Waves are inputs, and red wave is output. 
+
+![OR Gate](waveforms/or.png)
+
